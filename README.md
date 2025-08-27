@@ -4,6 +4,15 @@
 
 Manorrock E-commerce Free Edition is an open-source e-commerce platform designed for flexibility and ease of use. This guide will help you install and get started with the Free Edition.
 
+<!--p align="center" style="margin: 1.5em 0 0.5em 0;">
+  <em>Interested in more advanced features or other editions? Explore our full product line below:</em> <br/> <br/>
+</p>
+<div align="center" style="margin: 0.5em 0 1.5em 0;">
+	<a href="https://www.manorrock.com/products/ecommerce/" style="display: inline-block; background: #f3f4f6; color: #0078d4; font-size: 1.1em; font-weight: 500; padding: 0.7em 1.5em; border-radius: 6px; text-decoration: none; border: 1px solid #e0e0e0;">
+		View our full product line &rarr;
+	</a>
+</div-->
+
 ## Prerequisites
 
 - A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
