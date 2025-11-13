@@ -1,5 +1,7 @@
 # Manorrock E-commerce Free Edition
 
+_This project is no longer being maintained._
+
 ## Introduction
 
 Manorrock E-commerce Free Edition is an open-source e-commerce platform designed for flexibility and ease of use. This guide will help you install and get started with the Free Edition.
